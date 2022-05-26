@@ -56,6 +56,12 @@ public class CEEmpleado {
     public void setTelfEmp(String telfEmp) {
         this.telfEmp = telfEmp;
     }
+
+    @Override
+    public String toString() {
+        return super.toString(); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
+    }
     
     
+       
 }

@@ -20,5 +20,9 @@ public class CEUnidad {
     public void setNombUnid(String nombUnid) {
         this.nombUnid = nombUnid;
     }
-    
+    public void probandopull(){
+        String a;
+        String b;
+        
+    }
 }

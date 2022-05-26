@@ -26,4 +26,6 @@ public class CECategoria {
         return "CECategoria{" + "codiCate=" + codiCate + ", nombCate=" + nombCate + '}';
     }
    
+    public void sumar (){
+     int a = 0;    }
 }

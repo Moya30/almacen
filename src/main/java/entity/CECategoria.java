@@ -21,11 +21,4 @@ public class CECategoria {
         this.nombCate = nombCate;
     }
 
-    @Override
-    public String toString() {
-        return "CECategoria{" + "codiCate=" + codiCate + ", nombCate=" + nombCate + '}';
-    }
-   
-    public void sumar (){
-     int a = 0;    }
 }

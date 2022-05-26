@@ -20,5 +20,10 @@ public class CECategoria {
     public void setNombCate(String nombCate) {
         this.nombCate = nombCate;
     }
+
+    @Override
+    public String toString() {
+        return "CECategoria{" + "codiCate=" + codiCate + ", nombCate=" + nombCate + '}';
+    }
    
 }
